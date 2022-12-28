@@ -1,5 +1,5 @@
 **Description**
 
-Hello there!\n\n
-Native lang: ru\n\n
-Developer in: python\n\n
+`Hello there!`
+`Native lang: ru`
+`Developer: python`
