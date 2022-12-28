@@ -1,7 +1,4 @@
 **Description**
-
-`hello there!`
-
-`native lang - ru`
-
-`learning - c++ & c#`
+Hello there!
+Native lang: ru
+Developer in: python
